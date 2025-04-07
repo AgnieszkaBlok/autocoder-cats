@@ -3,4 +3,5 @@ Celem tego notatnika jest opracowanie procedury złożonej z przetwarzania wstę
 
 Autor: Agnieszka Blok
 
+numpy | matplotlib | tensorflow | keras
 [Link do Google Colab](https://colab.research.google.com/drive/1jCBc5Q7kFom4dYtt3FTt-MJGKOdjzbUx#scrollTo=rhEtdMPixzLv)
